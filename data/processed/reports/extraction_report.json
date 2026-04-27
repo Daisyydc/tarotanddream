@@ -1,0 +1,312 @@
+{
+  "pdf": [
+    {
+      "source_file": "78搴︾殑鏅烘収 瀹屾暣鍙版咕璇戞湰.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 421,
+      "success_pages": 421,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 0
+      }
+    },
+    {
+      "source_file": "OH鍗＄郴鍒楀績鐏靛浘鍗′腑鏂囦粙缁嶅惈浠锋牸.pdf",
+      "accepted": true,
+      "quality": "usable",
+      "reject_reason": null,
+      "total_pages": 16,
+      "success_pages": 16,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 4292,
+        "chinese_chars": 3045,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.7095,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 16
+      }
+    },
+    {
+      "source_file": "娣卞叆濉旂緟鐗岀殑绁炵鑳介噺锛涘奖闊夸竴鐢熺殑濉旂緟鐗屽缈掓浉---10.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 321,
+      "success_pages": 321,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 0
+      }
+    },
+    {
+      "source_file": "濉旂綏涓殑鍗犲崪绗︾爜.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 275,
+      "success_pages": 275,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 271
+      }
+    },
+    {
+      "source_file": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾(1).pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 952,
+      "success_pages": 952,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 948
+      }
+    },
+    {
+      "source_file": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 952,
+      "success_pages": 952,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 948
+      }
+    },
+    {
+      "source_file": "濉旂綏鍗犲崪101涓浣犳儕鍛艰繛杩炵殑濉旂綏蹇冩祴娓告垙.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 208,
+      "success_pages": 208,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 202
+      }
+    },
+    {
+      "source_file": "濉旂綏鐗岄樀鏁寸悊.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 41,
+      "success_pages": 41,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 0
+      }
+    },
+    {
+      "source_file": "鎴愪负涓撲笟濉旂綏甯堜綘璇ユ繁鍏ョ殑鍗犲崪瀵嗘妧.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 256,
+      "success_pages": 256,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 252
+      }
+    },
+    {
+      "source_file": "鏈电惓鑺欑路澶╀娇濉旂綏鍏ㄤ功.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 306,
+      "success_pages": 306,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 302
+      }
+    },
+    {
+      "source_file": "鑺卞奖濉旂綏璇存槑涔︿腑璇戝叏褰╃數瀛愮増.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 254,
+      "success_pages": 254,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 0
+      }
+    },
+    {
+      "source_file": "鑺卞奖濉旂綏鐗屼腑鏂囪鏄庢墜鍐屽畬鏁寸増CN.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 121,
+      "success_pages": 121,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 178,
+        "chinese_chars": 0,
+        "garbled_chars": 42,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.236,
+        "nonempty_units": 2
+      }
+    },
+    {
+      "source_file": "閫忚绯荤粺濉旂綏.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 50,
+      "success_pages": 50,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 50
+      }
+    },
+    {
+      "source_file": "閭湀濉旂綏鐗岃鏄庝功.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 94,
+      "success_pages": 94,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 0,
+        "chinese_chars": 0,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.0,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 0
+      }
+    },
+    {
+      "source_file": "闆疯鏇糭20170420122342455.pdf",
+      "accepted": false,
+      "quality": "bad",
+      "reject_reason": "low_text_quality_or_insufficient_content",
+      "total_pages": 14,
+      "success_pages": 14,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 181,
+        "chinese_chars": 140,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.7735,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 14
+      }
+    },
+    {
+      "source_file": "闊︾壒濉旂綏鏁欏锛堜腑绾э級.pdf",
+      "accepted": true,
+      "quality": "usable",
+      "reject_reason": null,
+      "total_pages": 73,
+      "success_pages": 73,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 5220,
+        "chinese_chars": 3856,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.7387,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 71
+      }
+    },
+    {
+      "source_file": "闊︾壒濉旂綏鏁欏锛堝垵绾э級.pdf",
+      "accepted": true,
+      "quality": "usable",
+      "reject_reason": null,
+      "total_pages": 67,
+      "success_pages": 67,
+      "failed_pages": 0,
+      "quality_stats": {
+        "total_chars": 14567,
+        "chinese_chars": 11696,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.8029,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 65
+      }
+    }
+  ],
+  "docx": [
+    {
+      "source_file": "濉旂綏鍏ラ棬鍗佷節鍫傝.docx",
+      "accepted": true,
+      "quality": "usable",
+      "reject_reason": null,
+      "total_paragraphs": 946,
+      "nonempty_paragraphs": 539,
+      "quality_stats": {
+        "total_chars": 33706,
+        "chinese_chars": 29590,
+        "garbled_chars": 0,
+        "chinese_ratio": 0.8779,
+        "garbled_ratio": 0.0,
+        "nonempty_units": 539
+      }
+    }
+  ],
+  "errors": []
+}

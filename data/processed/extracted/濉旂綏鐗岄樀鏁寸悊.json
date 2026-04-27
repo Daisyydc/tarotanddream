@@ -1,0 +1,187 @@
+{
+  "source_file": "濉旂綏鐗岄樀鏁寸悊.pdf",
+  "file_type": "pdf",
+  "book_id": "濉旂綏鐗岄樀鏁寸悊",
+  "pages": [
+    {
+      "page_num": 1,
+      "text": ""
+    },
+    {
+      "page_num": 2,
+      "text": ""
+    },
+    {
+      "page_num": 3,
+      "text": ""
+    },
+    {
+      "page_num": 4,
+      "text": ""
+    },
+    {
+      "page_num": 5,
+      "text": ""
+    },
+    {
+      "page_num": 6,
+      "text": ""
+    },
+    {
+      "page_num": 7,
+      "text": ""
+    },
+    {
+      "page_num": 8,
+      "text": ""
+    },
+    {
+      "page_num": 9,
+      "text": ""
+    },
+    {
+      "page_num": 10,
+      "text": ""
+    },
+    {
+      "page_num": 11,
+      "text": ""
+    },
+    {
+      "page_num": 12,
+      "text": ""
+    },
+    {
+      "page_num": 13,
+      "text": ""
+    },
+    {
+      "page_num": 14,
+      "text": ""
+    },
+    {
+      "page_num": 15,
+      "text": ""
+    },
+    {
+      "page_num": 16,
+      "text": ""
+    },
+    {
+      "page_num": 17,
+      "text": ""
+    },
+    {
+      "page_num": 18,
+      "text": ""
+    },
+    {
+      "page_num": 19,
+      "text": ""
+    },
+    {
+      "page_num": 20,
+      "text": ""
+    },
+    {
+      "page_num": 21,
+      "text": ""
+    },
+    {
+      "page_num": 22,
+      "text": ""
+    },
+    {
+      "page_num": 23,
+      "text": ""
+    },
+    {
+      "page_num": 24,
+      "text": ""
+    },
+    {
+      "page_num": 25,
+      "text": ""
+    },
+    {
+      "page_num": 26,
+      "text": ""
+    },
+    {
+      "page_num": 27,
+      "text": ""
+    },
+    {
+      "page_num": 28,
+      "text": ""
+    },
+    {
+      "page_num": 29,
+      "text": ""
+    },
+    {
+      "page_num": 30,
+      "text": ""
+    },
+    {
+      "page_num": 31,
+      "text": ""
+    },
+    {
+      "page_num": 32,
+      "text": ""
+    },
+    {
+      "page_num": 33,
+      "text": ""
+    },
+    {
+      "page_num": 34,
+      "text": ""
+    },
+    {
+      "page_num": 35,
+      "text": ""
+    },
+    {
+      "page_num": 36,
+      "text": ""
+    },
+    {
+      "page_num": 37,
+      "text": ""
+    },
+    {
+      "page_num": 38,
+      "text": ""
+    },
+    {
+      "page_num": 39,
+      "text": ""
+    },
+    {
+      "page_num": 40,
+      "text": ""
+    },
+    {
+      "page_num": 41,
+      "text": ""
+    }
+  ],
+  "stats": {
+    "total_pages": 41,
+    "success_pages": 41,
+    "failed_pages": 0
+  },
+  "quality_stats": {
+    "total_chars": 0,
+    "chinese_chars": 0,
+    "garbled_chars": 0,
+    "chinese_ratio": 0.0,
+    "garbled_ratio": 0.0,
+    "nonempty_units": 0
+  },
+  "accepted": false,
+  "quality": "bad",
+  "reject_reason": "low_text_quality_or_insufficient_content"
+}

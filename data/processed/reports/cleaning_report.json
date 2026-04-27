@@ -1,0 +1,97 @@
+{
+  "processed": 4,
+  "skipped_unaccepted": 14,
+  "saved": 4,
+  "details": [
+    {
+      "source_file": "78搴︾殑鏅烘収 瀹屾暣鍙版咕璇戞湰.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "OH鍗＄郴鍒楀績鐏靛浘鍗′腑鏂囦粙缁嶅惈浠锋牸.pdf",
+      "status": "saved",
+      "kept_units": 16
+    },
+    {
+      "source_file": "娣卞叆濉旂緟鐗岀殑绁炵鑳介噺锛涘奖闊夸竴鐢熺殑濉旂緟鐗屽缈掓浉---10.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "濉旂綏涓殑鍗犲崪绗︾爜.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "濉旂綏鍏ラ棬鍗佷節鍫傝.docx",
+      "status": "saved",
+      "kept_units": 379
+    },
+    {
+      "source_file": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾(1).pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "濉旂綏鍗犲崪101涓浣犳儕鍛艰繛杩炵殑濉旂綏蹇冩祴娓告垙.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "濉旂綏鐗岄樀鏁寸悊.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "鎴愪负涓撲笟濉旂綏甯堜綘璇ユ繁鍏ョ殑鍗犲崪瀵嗘妧.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "鏈电惓鑺欑路澶╀娇濉旂綏鍏ㄤ功.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "鑺卞奖濉旂綏璇存槑涔︿腑璇戝叏褰╃數瀛愮増.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "鑺卞奖濉旂綏鐗屼腑鏂囪鏄庢墜鍐屽畬鏁寸増CN.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "閫忚绯荤粺濉旂綏.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "閭湀濉旂綏鐗岃鏄庝功.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "闆疯鏇糭20170420122342455.pdf",
+      "status": "skipped",
+      "reason": "low_text_quality_or_insufficient_content"
+    },
+    {
+      "source_file": "闊︾壒濉旂綏鏁欏锛堜腑绾э級.pdf",
+      "status": "saved",
+      "kept_units": 41
+    },
+    {
+      "source_file": "闊︾壒濉旂綏鏁欏锛堝垵绾э級.pdf",
+      "status": "saved",
+      "kept_units": 57
+    }
+  ]
+}

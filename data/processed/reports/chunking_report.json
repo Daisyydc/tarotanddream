@@ -1,0 +1,115 @@
+{
+  "total_docs": 18,
+  "total_chunks": 103,
+  "output_path": "data\\processed\\chunks\\books_chunks.jsonl",
+  "files": [
+    {
+      "source_file": "78搴︾殑鏅烘収 瀹屾暣鍙版咕璇戞湰.pdf",
+      "book_id": "78搴︾殑鏅烘収 瀹屾暣鍙版咕璇戞湰",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "OH鍗＄郴鍒楀績鐏靛浘鍗′腑鏂囦粙缁嶅惈浠锋牸.pdf",
+      "book_id": "OH鍗＄郴鍒楀績鐏靛浘鍗′腑鏂囦粙缁嶅惈浠锋牸",
+      "file_type": "pdf",
+      "num_chunks": 8
+    },
+    {
+      "source_file": "娣卞叆濉旂緟鐗岀殑绁炵鑳介噺锛涘奖闊夸竴鐢熺殑濉旂緟鐗屽缈掓浉---10.pdf",
+      "book_id": "娣卞叆濉旂緟鐗岀殑绁炵鑳介噺锛涘奖闊夸竴鐢熺殑濉旂緟鐗屽缈掓浉---10",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "濉旂綏涓殑鍗犲崪绗︾爜.pdf",
+      "book_id": "濉旂綏涓殑鍗犲崪绗︾爜",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "濉旂綏鍏ラ棬鍗佷節鍫傝.docx",
+      "book_id": "濉旂綏鍏ラ棬鍗佷節鍫傝",
+      "file_type": "docx",
+      "num_chunks": 54
+    },
+    {
+      "source_file": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾(1).pdf",
+      "book_id": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾(1)",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾.pdf",
+      "book_id": "濉旂綏鍐ユ兂_鍩虹潱淇′话鍐呭湪闅愪慨涔嬫梾",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "濉旂綏鍗犲崪101涓浣犳儕鍛艰繛杩炵殑濉旂綏蹇冩祴娓告垙.pdf",
+      "book_id": "濉旂綏鍗犲崪101涓浣犳儕鍛艰繛杩炵殑濉旂綏蹇冩祴娓告垙",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "濉旂綏鐗岄樀鏁寸悊.pdf",
+      "book_id": "濉旂綏鐗岄樀鏁寸悊",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "鎴愪负涓撲笟濉旂綏甯堜綘璇ユ繁鍏ョ殑鍗犲崪瀵嗘妧.pdf",
+      "book_id": "鎴愪负涓撲笟濉旂綏甯堜綘璇ユ繁鍏ョ殑鍗犲崪瀵嗘妧",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "鏈电惓鑺欑路澶╀娇濉旂綏鍏ㄤ功.pdf",
+      "book_id": "鏈电惓鑺欑路澶╀娇濉旂綏鍏ㄤ功",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "鑺卞奖濉旂綏璇存槑涔︿腑璇戝叏褰╃數瀛愮増.pdf",
+      "book_id": "鑺卞奖濉旂綏璇存槑涔︿腑璇戝叏褰╃數瀛愮増",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "鑺卞奖濉旂綏鐗屼腑鏂囪鏄庢墜鍐屽畬鏁寸増CN.pdf",
+      "book_id": "鑺卞奖濉旂綏鐗屼腑鏂囪鏄庢墜鍐屽畬鏁寸増CN",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "閫忚绯荤粺濉旂綏.pdf",
+      "book_id": "閫忚绯荤粺濉旂綏",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "閭湀濉旂綏鐗岃鏄庝功.pdf",
+      "book_id": "閭湀濉旂綏鐗岃鏄庝功",
+      "file_type": "pdf",
+      "num_chunks": 0
+    },
+    {
+      "source_file": "闆疯鏇糭20170420122342455.pdf",
+      "book_id": "闆疯鏇糭20170420122342455",
+      "file_type": "pdf",
+      "num_chunks": 1
+    },
+    {
+      "source_file": "闊︾壒濉旂綏鏁欏锛堜腑绾э級.pdf",
+      "book_id": "闊︾壒濉旂綏鏁欏锛堜腑绾э級",
+      "file_type": "pdf",
+      "num_chunks": 8
+    },
+    {
+      "source_file": "闊︾壒濉旂綏鏁欏锛堝垵绾э級.pdf",
+      "book_id": "闊︾壒濉旂綏鏁欏锛堝垵绾э級",
+      "file_type": "pdf",
+      "num_chunks": 32
+    }
+  ]
+}

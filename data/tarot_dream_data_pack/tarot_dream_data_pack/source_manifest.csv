@@ -1,0 +1,9 @@
+﻿source_name,url,status,local_file,notes
+Kaggle - Complete Tarot Card Meanings - All 78 Cards,https://www.kaggle.com/datasets/morrispoint/complete-tarot-card-meanings-all-78-cards,未自动下载,,Kaggle 页面可见，但自动下载通常需要登录/授权。建议你本地登录 Kaggle 后再补下。
+Dream Decoder repo data,https://github.com/saiwaiyanyu/tensorflow-bert-seq2seq-dream-decoder,已下载,cleaned/dream_decoder_data_clean.csv; cleaned/dream_decoder_data_clean.jsonl,"原始文件虽命名为 data.csv，但内容实际为 JSONL/NDJSON；成功解析 33,830 条 dream-decode 对。"
+JieMeng scraper repo,https://github.com/ducenand/JieMeng,仅整理说明,,这是抓取工程，不是现成整理好的导出数据集；更适合参考抓取逻辑。
+Hugging Face - Dendory/tarot,https://huggingface.co/datasets/Dendory/tarot,已下载,cleaned/Dendory_tarot_readings_clean.csv,"成功下载并整理 5,769 条三张牌阅读样本。"
+AI-Diviner-Web Tarot.ts,https://github.com/2945236629/AI-Diviner-Web/tree/main/src/data,已下载,raw/AI_Diviner_Tarot.ts,包含牌名映射与牌阵定义；解析到 79 个英文标签、0 个中文标签、0 个牌阵名称。
+tarot-reader script,https://github.com/Eveeeenone/tarot-reader/blob/main/tarot_reader.py,已下载,raw/tarot_reader.py,是完整业务脚本，更适合提取业务逻辑、牌结构、解读流程，而不是直接当知识库语料。
+AbsoluteWinter/tarot-database,https://github.com/AbsoluteWinter/tarot-database,仅整理说明,raw/AbsoluteWinter_tarot_database_README.md,README 明确说明这是 JSON + base64 image 的塔罗数据库；本次仅下载到 README 说明，未自动枚举完整仓库数据文件。
+tarot-skill card relations,https://github.com/daman-ovo-0404/tarot-skill/blob/main/references/card-relations.md,已下载,raw/card-relations.md,更像“解释规则文档”而非原始数据表；共 24 级标题，可直接做高质量 RAG 规则知识。

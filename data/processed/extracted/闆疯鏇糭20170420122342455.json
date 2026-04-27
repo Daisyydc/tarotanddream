@@ -1,0 +1,79 @@
+{
+  "source_file": "闆疯鏇糭20170420122342455.pdf",
+  "file_type": "pdf",
+  "book_id": "闆疯鏇糭20170420122342455",
+  "pages": [
+    {
+      "page_num": 1,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 2,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 3,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 4,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 5,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 6,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 7,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 8,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 9,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 10,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 11,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 12,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 13,
+      "text": "由 扫描全能王 扫描创建"
+    },
+    {
+      "page_num": 14,
+      "text": "由 扫描全能王 扫描创建"
+    }
+  ],
+  "stats": {
+    "total_pages": 14,
+    "success_pages": 14,
+    "failed_pages": 0
+  },
+  "quality_stats": {
+    "total_chars": 181,
+    "chinese_chars": 140,
+    "garbled_chars": 0,
+    "chinese_ratio": 0.7735,
+    "garbled_ratio": 0.0,
+    "nonempty_units": 14
+  },
+  "accepted": false,
+  "quality": "bad",
+  "reject_reason": "low_text_quality_or_insufficient_content"
+}
