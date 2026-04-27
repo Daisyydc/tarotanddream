@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>灵境大师</title>
+  <link rel="stylesheet" href="/frontend/style.css?v=31" />
+</head>
+<body>
+  <canvas id="starsCanvas" class="stars-canvas" aria-hidden="true"></canvas>
+  <div class="cosmic-noise" aria-hidden="true"></div>
+  <div class="cosmic-vignette" aria-hidden="true"></div>
+  <div class="dealer-backdrop" aria-hidden="true">
+    <div class="dealer-glow"></div>
+    <div class="dealer-image"></div>
+  </div>
+
+  <div class="scene-blur-layer" id="sceneBlurLayer" aria-hidden="true"></div>
+
+  <div class="ritual-stage" id="ritualStage">
+    <header class="ritual-topbar">
+      <div class="brand-mark">✦ 灵境大师</div>
+      <div class="brand-sub">Tarot × Dream Ritual Console</div>
+    </header>
+
+    <section class="intro-sequence" id="introSequence" aria-hidden="true">
+      <button class="skip-btn" id="skipIntroBtn" type="button">跳过</button>
+      <div class="intro-card-orbit" id="introCardOrbit"></div>
+    </section>
+
+    <main class="ritual-center">
+      <section class="mode-card-zone hidden" id="modeCardZone">
+        <div class="ritual-card-wrap" id="ritualCardWrap">
+          <button class="rotate-trigger" id="rotateModeBtn" type="button">看看另一面</button>
+          <button class="ritual-card" id="modeCard" type="button" aria-label="选择模式">
+            <div class="ritual-card-face ritual-card-front">
+              <div class="card-face-content">
+                <div class="card-script">Tarot</div>
+                <div class="card-subscript">Touch to enter</div>
+              </div>
+            </div>
+            <div class="ritual-card-face ritual-card-back">
+              <div class="card-face-content">
+                <div class="card-script">Dream</div>
+                <div class="card-subscript">Whisper to enter</div>
+              </div>
+            </div>
+          </button>
+        </div>
+        <p class="mode-tip" id="modeTip">当前是塔罗模式。点击卡牌，进入塔罗仪式。</p>
+      </section>
+
+      <section class="scroll-panel hidden" id="scrollPanel">
+        <div class="scroll-core">
+          <div class="scroll-header">
+            <div>
+              <div class="scroll-kicker" id="scrollKicker">Tarot Ritual</div>
+              <h2 class="scroll-title" id="scrollTitle">请写下你的问题</h2>
+            </div>
+            <button class="ghost-btn hidden" id="backToModeBtn" type="button">返回牌面</button>
+          </div>
+          <div class="scroll-body" id="scrollBody"></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="transition-overlay hidden" id="transitionOverlay" aria-hidden="true">
+    <div class="transition-clock-stage">
+      <div class="transition-clock-wrap" id="transitionClockWrap">
+        <div class="pendulum-anchor"></div>
+        <div class="pendulum-chain"></div>
+        <div class="transition-clock" id="transitionClock">
+          <div class="clock-border-glow"></div>
+          <div class="clock-border-image"></div>
+          <div class="clock-sprig sprig-tl"></div>
+          <div class="clock-sprig sprig-bl"></div>
+          <div class="clock-sprig sprig-br"></div>
+          <div class="clock-mechanism">
+            <div class="clock-ring ring-1"></div>
+            <div class="clock-ring ring-2"></div>
+            <div class="clock-ticks"></div>
+            <div class="clock-hand hand-hour"></div>
+            <div class="clock-hand hand-minute"></div>
+            <div class="clock-core"></div>
+          </div>
+        </div>
+      </div>
+      <div class="transition-text" id="transitionText">现在开始平静下来……</div>
+    </div>
+  </div>
+
+  <div class="selected-card-overlay hidden" id="selectedCardOverlay" aria-hidden="true">
+    <div class="selected-card-glow"></div>
+    <div class="selected-card-shell" id="selectedCardShell"></div>
+    <div class="selected-card-caption" id="selectedCardCaption">命运正在显化……</div>
+  </div>
+
+  <template id="tpl-tarot-form">
+    <div class="ritual-copy">
+      <p>请将此刻最想知道的问题写下。问题越具体，回应会越贴近现实。</p>
+    </div>
+    <label class="field-label" for="tarotQuestion">你的问题</label>
+    <textarea id="tarotQuestion" class="ritual-textarea" placeholder="例如：我最近的情感会怎么发展？"></textarea>
+    <div class="scroll-actions">
+      <button class="primary-btn" id="startTarotBtn" type="button">开始塔罗仪式</button>
+    </div>
+  </template>
+
+  <template id="tpl-dream-form">
+    <div class="ritual-copy">
+      <p>把梦里的画面、人物、气氛和你醒来后的感受写下来，卷轴会慢慢整理出它的象征。</p>
+    </div>
+    <label class="field-label" for="dreamText">梦境描述</label>
+    <textarea id="dreamText" class="ritual-textarea" placeholder="例如：我梦见自己一直在水里找路，很慌张。"></textarea>
+    <div class="scroll-actions">
+      <button class="primary-btn" id="startDreamBtn" type="button">开始解梦</button>
+    </div>
+  </template>
+
+  <script src="/frontend/app.js?v=31"></script>
+</body>
+</html>
